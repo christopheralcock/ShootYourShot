@@ -1,0 +1,8 @@
+/*
+!/Assets/
+/Assets/*
+!/Assets/*.cs
+!.gitignore
+!/docs/
+!/staging/
+!/ProjectSettings/
